@@ -6,7 +6,7 @@ else
 	UTILS_DIR="/tmp/Utilities"
 fi
 
-echo "Verifying for existence of '$UTILS_DIR'."
+echo "Verifying existence of '$UTILS_DIR'."
 
 ITERATION=1
 while [ $ITERATION -lt 30 ]
